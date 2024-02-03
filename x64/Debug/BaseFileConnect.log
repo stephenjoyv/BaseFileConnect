@@ -1,0 +1,13 @@
+﻿  FileName.cpp
+D:\MS Dir\repos\BaseFileConnect\BaseFileConnect\FileName.cpp(178,45): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+D:\MS Dir\repos\BaseFileConnect\BaseFileConnect\FileName.cpp(190,45): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+D:\MS Dir\repos\BaseFileConnect\BaseFileConnect\FileName.cpp(203,45): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+D:\MS Dir\repos\BaseFileConnect\BaseFileConnect\FileName.cpp(215,45): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+D:\MS Dir\repos\BaseFileConnect\BaseFileConnect\FileName.cpp(227,45): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+D:\MS Dir\repos\BaseFileConnect\BaseFileConnect\FileName.cpp(239,45): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+  FileName1.cpp
+D:\MS Dir\repos\BaseFileConnect\BaseFileConnect\FileName1.cpp(21,1): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+D:\MS Dir\repos\BaseFileConnect\BaseFileConnect\FileName1.cpp(31,6): warning C4101: n: неиспользованная локальная переменная
+  FileName2.cpp
+  Создание кода...
+  BaseFileConnect.vcxproj -> D:\MS Dir\repos\BaseFileConnect\x64\Debug\BaseFileConnect.exe
